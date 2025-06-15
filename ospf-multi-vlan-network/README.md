@@ -23,7 +23,7 @@ Designed and implemented a scalable network infrastructure supporting multiple d
 | 990 | Department A | 800 | 99.0.0.0/22 | 255.255.252.0 |
 | 902 | Department B | 200 | 99.0.4.0/24 | 255.255.255.0 |
 | 516 | Department C | 120 | 99.0.5.0/25 | 255.255.255.128 |
-| 1 | Management | 6 | 99.0.5.160/29 | 255.255.255.248 |
+| 99 | Management | 6 | 99.0.5.160/29 | 255.255.255.248 |
 
 **Additional Networks**:
 - Database Server LAN: 99.0.5.128/27 (20 hosts)
