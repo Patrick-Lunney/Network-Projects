@@ -10,7 +10,7 @@ This repository contains practical networking projects implementing various rout
 
 #### OSPF Multi-VLAN Network
 **Technologies**: OSPF, VLANs, DHCP, NAT, ACLs, PPP/CHAP  
-**Scope**: Three-router network with departmental VLANs and security policies
+**Scope**: Multi-router network with departmental segmentation and security policies
 
 #### Coming Soon
 - **EIGRP Routing Implementation** 
