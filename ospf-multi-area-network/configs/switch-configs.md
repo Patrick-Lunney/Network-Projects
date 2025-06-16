@@ -1,6 +1,6 @@
 # Switch Configuration Files
 
-Complete configuration for the Core and Branch Switches.
+Complete configuration files for all switches in the network.
 
 ## SW1-Core Configuration
 
