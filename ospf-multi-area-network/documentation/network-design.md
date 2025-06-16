@@ -53,7 +53,7 @@ This project implements a multi-area OSPF network demonstrating hierarchical rou
 - **Trunking**: 802.1Q between routers and switches
 - **Management VLAN**: VLAN 99 (VLAN 1 shutdown for security)
 - **Access Ports**: Configured with departmental VLAN assignments
-- **Trunk Optimization**: Only active VLANs allowed on trunk ports
+- **Trunk Optimisation**: Only active VLANs allowed on trunk ports
 
 ### Static Routing
 - **Gateway Router**: R2-Gateway with default route to ISP
@@ -82,7 +82,7 @@ This project implements a multi-area OSPF network demonstrating hierarchical rou
 ### Port Security
 - **MAC Address Learning**: Sticky configuration on Dept-A access ports
 - **Maximum Devices**: 4 per port
-- **Violation Action**: Protect (drop unauthorized frames)
+- **Violation Action**: Protect (drop unauthorised frames)
 - **Applied Ports**: Dept-A access ports (Gi1/0/13, Gi1/0/14)
 
 ### Password Security
