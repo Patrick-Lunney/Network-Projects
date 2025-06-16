@@ -1,6 +1,6 @@
 # Switch Configuration Files
 
-Complete configuration for the access layer switch.
+Complete configuration for the Core and Branch Switches.
 
 ## SW1-Core Configuration
 
