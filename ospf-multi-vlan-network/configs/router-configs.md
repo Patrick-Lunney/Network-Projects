@@ -106,7 +106,7 @@ ip access-list standard TELNET-R1-CORE
 banner motd ^C
 ****************************************
 *        R1-CORE ROUTER ACCESS         *
-*      AUTHORIZED PERSONNEL ONLY       *
+*      AUTHORISED PERSONNEL ONLY       *
 *    Network Infrastructure Device     *
 ****************************************
 ^C
@@ -230,7 +230,7 @@ ip access-list standard TELNET-R2-GATEWAY
 banner motd ^C
 ****************************************
 *       R2-GATEWAY ROUTER ACCESS       *
-*      AUTHORIZED PERSONNEL ONLY       *
+*      AUTHORISED PERSONNEL ONLY       *
 *       Internet Gateway Device        *
 ****************************************
 ^C
@@ -327,7 +327,7 @@ ip flow-export version 9
 banner motd ^C
 ****************************************
 *        R3-ISP ROUTER ACCESS          *
-*      AUTHORIZED PERSONNEL ONLY       *
+*      AUTHORISED PERSONNEL ONLY       *
 *       External ISP Simulation        *
 ****************************************
 ^C
