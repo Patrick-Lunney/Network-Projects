@@ -109,7 +109,7 @@ ip flow-export version 9
 banner motd ^C
 ****************************************
 *       SW1-ACCESS SWITCH ACCESS       *
-*      AUTHORIZED PERSONNEL ONLY       *
+*      AUTHORISED PERSONNEL ONLY       *
 *      Departmental Access Switch      *
 ****************************************
 ^C
