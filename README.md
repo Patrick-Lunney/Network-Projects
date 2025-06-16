@@ -12,17 +12,22 @@ This repository contains practical networking projects implementing various rout
 **Technologies**: OSPF, VLANs, DHCP, NAT, ACLs, PPP/CHAP  
 **Scope**: Multi-router network with departmental segmentation and security policies
 
+#### OSPF Multi-Area Network
+**Technologies**: Multi-Area OSPF, VLANs, ACLs, Inter-Area Routing  
+**Scope**: Four-router hierarchical design with area-based network segmentation
+
 #### Coming Soon
 - **EIGRP Routing Implementation** 
 - **RIPv2 Basic Routing** 
 
 ## Technical Skills Demonstrated
 
-**Routing Protocols**: OSPF, EIGRP, RIPv2  
+**Routing Protocols**: OSPF (Single & Multi-Area), EIGRP, RIPv2  
 **Switching**: VLANs, Trunking, Port Security  
 **Security**: ACLs, Authentication, Network Segmentation  
 **Services**: DHCP, NAT/PAT, DNS  
 **WAN Technologies**: PPP, CHAP, Serial Links  
+**Network Design**: Area-based Hierarchical Architecture  
 **Tools**: Cisco Packet Tracer, IOS Configuration
 
 ---
