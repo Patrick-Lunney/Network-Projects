@@ -9,14 +9,14 @@ This repository contains practical networking projects implementing various rout
 ### Current Projects
 
 #### OSPF Multi-VLAN Network
-**Technologies**: OSPF, VLANs, DHCP, NAT, ACLs, PPP/CHAP  
-**Scope**: Multi-router network with departmental segmentation and security policies
-**[View Project Details](./ospf-multi-vlan-network/README.md)**
+* **Technologies**: OSPF, VLANs, DHCP, NAT, ACLs, PPP/CHAP  
+* **Scope**: Multi-router network with departmental segmentation and security policies
+* **[View Project Details](./ospf-multi-vlan-network/README.md)**
 
 #### OSPF Multi-Area Network
-**Technologies**: Multi-Area OSPF, VLANs, ACLs, Inter-Area Routing  
-**Scope**: Four-router hierarchical design with area-based network segmentation
-**[View Project Details](./ospf-multi-area-network/README.md)**
+* **Technologies**: Multi-Area OSPF, VLANs, ACLs, Inter-Area Routing  
+* **Scope**: Four-router hierarchical design with area-based network segmentation
+* **[View Project Details](./ospf-multi-area-network/README.md)**
 
 #### Coming Soon
 - **EIGRP Routing Implementation** 
