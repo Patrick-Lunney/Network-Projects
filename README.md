@@ -6,6 +6,8 @@
 
 This repository contains practical networking projects implementing various routing protocols, network security measures, and infrastructure designs. Each project demonstrates hands-on configuration of enterprise networking technologies.
 
+---
+
 ### Current Projects
 
 #### OSPF Multi-VLAN Network
@@ -18,9 +20,13 @@ This repository contains practical networking projects implementing various rout
 * **Scope**: Four-router hierarchical design with area-based network segmentation
 * **[View Project Details](./ospf-multi-area-network/README.md)**
 
+---
+
 #### Coming Soon
 - **EIGRP Routing Implementation** 
 - **RIPv2 Basic Routing** 
+
+---
 
 ## Technical Skills Demonstrated
 
